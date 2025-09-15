@@ -1,2 +1,1 @@
-# Excelerate-data-visualization
-Data visualization project
+ Excelerate-data-visualization
